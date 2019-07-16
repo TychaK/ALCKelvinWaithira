@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ALC Kelvin Waithira</string>
+    <string name="welcome_text">Welcome to ALC 4.0</string>
+    <string name="about_alc">ABOUT ALC</string>
+    <string name="my_profile">MY PROFILE</string>
+    <string name="table_layout_track">Track:</string>
+    <string name="table_layout_track_value">Android</string>
+    <string name="table_layout_country">Country:</string>
+    <string name="table_layout_country_value">Kenya</string>
+    <string name="table_layout_email">Email Address:</string>
+    <string name="table_layout_email_value">kelvinkibugi@gmail.com</string>
+    <string name="table_layout_phone">Phone Number:</string>
+    <string name="table_layout_phone_value">+254 726 738 394</string>
+    <string name="table_layout_slack_username">Slack Username:</string>
+    <string name="table_layout_slack_username_value">Kelvin Kibugi</string>
+    <string name="name">Kelvin Kibugi</string>
+</resources>
